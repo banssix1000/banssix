@@ -1,0 +1,5 @@
+crie um ambiente virtual:
+
+virtualenv venv
+source venv/bin/activate
+pip install -r requirements.txt
